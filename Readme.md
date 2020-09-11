@@ -1,6 +1,6 @@
-### Hi there, I'm Julius Bright  [juliusbright][website] 👋
+### Hi there, I'm Julius Bright [website] 👋
 
-[![Website](https://juliusbright.com/)](https://juliusbright.com/)
+[![Website](https://www.juliusbright.com/img/Logo.gif/)](https://juliusbright.com/)
 [![Linkedin Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](http://linkedin.com/in/julius-bright-64619691)
 
 ## I'm a Husband, Father, Developer, and Teacher!
