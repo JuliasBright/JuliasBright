@@ -1,8 +1,8 @@
 ### Hi there, I'm Julius Bright [website] 👋
+[![Website](https://www.juliusbright.com/img/Logo.gif)](https://juliusbright.com/)
 
-[![Website](https://www.juliusbright.com/img/Logo.gif height="75" width="75" alt="" title=""/)](https://juliusbright.com/)
-[![Linkedin Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](http://linkedin.com/in/julius-bright-64619691)
-
+[![Linkedin Follow](https://img.shields.io/twitter/follow &logo=twitter&style=for-the-badge)](http://linkedin.com/in/julius-bright-64619691)
+ 
 ## I'm a Husband, Father, Developer, and Teacher!
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
