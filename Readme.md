@@ -1,7 +1,7 @@
 ### Hi there, I'm Julius Bright [website] 👋
-[![Website](https://www.juliusbright.com/img/Logo.gif )](https://juliusbright.com/)
 
-<img alt="Ansible Role" src="https://img.shields.io/ansible/role/1024?color=n&label=Project%20&logo=Click%20here%20&logoColor=Click%20here%20&style=for-the-badge">
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="154" height="20" role="img" aria-label="View Project: click to visit"><title>View Project: click to visit</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="154" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="79" height="20" fill="#555"/><rect x="79" width="75" height="20" fill="#dfb317"/><rect width="154" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="405" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="690">View Project</text><text x="405" y="140" transform="scale(.1)" fill="#fff" textLength="690">View Project</text><text aria-hidden="true" x="1155" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="650">click to visit</text><text x="1155" y="140" transform="scale(.1)" fill="#fff" textLength="650">click to visit</text></g></svg>
  
 ## I'm a Full-stack Developer, Founder Bright-Group, and Teacher!
 
