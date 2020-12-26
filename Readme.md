@@ -1,7 +1,7 @@
 ### Hi there, I'm Julius Bright [website] 👋
-<button>Click here To View Project </button>
+[![Website](https://www.juliusbright.com/img/Logo.gif )](https://juliusbright.com/)
 
-
+https://img.shields.io/badge/View%20Project%20-click%20to%20visit%20-red
  
 ## I'm a Full-stack Developer, Founder Bright-Group, and Teacher!
 
