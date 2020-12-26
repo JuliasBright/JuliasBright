@@ -1,7 +1,7 @@
 ### Hi there, I'm Julius Bright [website] 👋
 [![Website](https://www.juliusbright.com/img/Logo.gif )](https://juliusbright.com/)
 
-https://img.shields.io/badge/View%20Project%20-click%20to%20visit%20-red
+<img alt="Ansible Role" src="https://img.shields.io/ansible/role/1024?color=n&label=Project%20&logo=Click%20here%20&logoColor=Click%20here%20&style=for-the-badge">
  
 ## I'm a Full-stack Developer, Founder Bright-Group, and Teacher!
 
