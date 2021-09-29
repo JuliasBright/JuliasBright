@@ -1,13 +1,13 @@
 ### Hi there, I'm Julius Bright [website] 👋
-[![Website](https://www.juliusbright.com/img/Logo.gif )](https://juliusbright.com/)
+[![Website](https://juliusbright.com/dist/assets/img/logo1.png )](https://juliusbright.com/)
  
 ## I'm a Full-stack Developer, Founder Bright-Group, and Teacher!
 
 - 🔭 I’m currently working on at [Bright-Group][website]!
-- 🌱 I’m like learning everything 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: With the help from team Providing Best Software experience is our mission
-- ⚡ Fun fact: I love to make people laugh 🤣.
+- 🌱 The human foot is a masterpiece of engineering and a work of art
+- 👯 When you want to know how things really work, study them when they’re coming apart. Foundation of team Building.
+- 🥅 2022 Goals: To help You Get what You always needed in software industry
+- ⚡ Fun fact: Engineers like to solve problems. If there are no problems handily available, they will create their own problems.🤣.
 
 ### Connect with me:
 
