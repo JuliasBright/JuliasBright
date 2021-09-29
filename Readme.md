@@ -1,7 +1,7 @@
-### Hi there, I'm Julius Bright [website] 👋
+### Hi there, I'm Julius Bright [visit-me] 👋
 [![Website](https://juliusbright.com/dist/assets/img/logo1.png )](https://juliusbright.com/)
  
-## I'm a Full-stack Developer, Founder Bright-Group, and Teacher!
+## As a Snr Software Engineer(python,c#), Founder Bright-Group, and Teacher!
 
 - 🔭 I’m currently working on at [Bright-Group][website]!
 - 🌱 The human foot is a masterpiece of engineering and a work of art
