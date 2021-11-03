@@ -16,9 +16,7 @@
 
 <hr/>
 
-<div align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuliasBright&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&hide=contribs&theme=graywhite&bg_color=0000" />
-</div>
+
 
 - 🔭 I’m currently working on at [Bright-Group][website]!
 - 🌱 The human foot is a masterpiece of engineering and a work of art
@@ -59,6 +57,9 @@
 <br />
 
 --
+<div align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuliasBright&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&hide=contribs&theme=graywhite&bg_color=0000" />
+</div>
 
 <details>
   <summary>:zap: Github Stats</summary>
