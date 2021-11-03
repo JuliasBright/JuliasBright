@@ -1,11 +1,12 @@
  <div align="center">
-   <h1>Hi there!👋 I'm Julius Bright [visit-me]  <img src="https://media-exp1.licdn.com/dms/image/C4D03AQErPPPoqbdttg/profile-displayphoto-shrink_200_200/0/1627045203376?e=1641427200&v=beta&t=-Et7Ncz9QhH1n1_2IF4bFeYZUi_u4307F9gXr5KuSfk" width="50px" height="50px"></h1>
+   <h1>Hi there!👋 I'm Julius Bright   </h1>
 </div>
 
 <div align="center">
  <h4>Senior Software Engineer  Level ||</h4>
    <h3>🚀 .NET Core, C#, Python, </h3>
      <p> Founder of Bright Group </p>
+     <img src="https://media-exp1.licdn.com/dms/image/C4D03AQErPPPoqbdttg/profile-displayphoto-shrink_200_200/0/1627045203376?e=1641427200&v=beta&t=-Et7Ncz9QhH1n1_2IF4bFeYZUi_u4307F9gXr5KuSfk" width="50px" height="50px">
    
 </div>
 <hr/>
