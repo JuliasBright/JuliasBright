@@ -1,6 +1,23 @@
 ### Hi there, I'm Julius Bright [visit-me] 👋
 [![Website](https://juliusbright.com/dist/assets/img/logo1.png )](https://juliusbright.com/)
- 
+ <div align="center">
+   <h1>Hi there! I'm Julius Bright [visit-me] 👋 <img src="https://media.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif" width="30px"></h1>
+</div>
+
+<div align="center">
+   <h3>🚀 .NET Core, C#, Python, </h3>
+</div>
+<hr/>
+
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=JuliasBright&theme=flat&no-frame=true&margin-w=30&no-bg=true" />
+</div>
+
+<hr/>
+
+<div align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuliasBright&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&hide=contribs&theme=graywhite&bg_color=0000" />
+</div>
 ## As a Snr Software Engineer(python,c#), Founder Bright-Group, and Teacher!
 
 - 🔭 I’m currently working on at [Bright-Group][website]!
