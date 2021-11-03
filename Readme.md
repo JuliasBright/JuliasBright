@@ -19,10 +19,9 @@
 
 
 
-- 🔭 I’m currently working on at [Bright-Group][website]!
+- 🔭 I’m currently working on projects and also oversee at [Bright-Group][website], [Playdats] [ipic play]!
 - 🌱 The human foot is a masterpiece of engineering and a work of art
-- 👯 When you want to know how things really work, study them when they’re coming apart. Foundation of team Building.
-- 🥅 2022 Goals: To help You Get what You always needed in software industry
+- 👯 When you want to know how things really work tore them apart. Foundation of team Building.
 - ⚡ Fun fact: Engineers like to solve problems. If there are no problems handily available, they will create their own problems.🤣.
 
 ### Connect with me:
