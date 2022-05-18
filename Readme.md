@@ -6,7 +6,7 @@
  <h4>Senior Software Engineer  Level ||</h4>
    <h3>🚀 .NET Core, C#, Python, </h3>
      <p> Founder of Bright Group </p>
- <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+ 
 <lord-icon
     src="https://cdn.lordicon.com/wxnxiano.json"
     trigger="loop"
