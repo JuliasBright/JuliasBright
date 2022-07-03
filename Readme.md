@@ -5,7 +5,13 @@
 <div align="center">
  <h4>🦾 I work as Full Stack Developer |Font end/Back-end | Senior Software Engineer Level II</h4>
    <h3>🚀 .NET Core, C#, Python, C++ </h3>
-     <p> Founder of Bright Group </p>
+     p> Critical Tech Stack that are My Daily Norm,
+        - Programming Languages : : C#, .Net Core, Python,
+        - Database Languages : : SQL, MySQL, MSSQL, Postgres, SQL-Lite,Mongo-Db
+        - Website Frameworks : : JavaScript, Django, Asp .Net, Mvc, Angular, HTML, CSS,
+        - Deployment Frameworks : : Git, Heroku, Azure, Netilfy,
+
+     </p>
  
 <lord-icon
     src="https://cdn.lordicon.com/wxnxiano.json"
