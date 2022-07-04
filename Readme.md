@@ -30,7 +30,7 @@
 
 <h4>Masterpiece of engineering not only tackles real world problems but dives deep in sustain the future of the current problem solution.</h4>
 <hr/>
-- 🔭 I’m currently working on projects and also oversee at [Bright-Group][website], [Playdats] [ipic play]!
+ -  🔭 I’m currently working on projects and also oversee at [Bright-Group][website], [Playdats] [ipic play]!
 - 🌱 The human foot is a masterpiece of engineering and a work of art
 - 👯 When you want to know how things really work tore them apart. Foundation of team Building.
 - ⚡ Fun fact: Engineers like to solve problems. If there are no problems handily available, they will create their own problems.🤣.
