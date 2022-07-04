@@ -73,7 +73,7 @@
 </div>
 
 
-<div align="center">
+
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JuliasBright&count_private=true&theme=tokyonight&showicons=true)]()
 
 
