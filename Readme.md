@@ -10,7 +10,6 @@
         - Database Languages : : SQL, MySQL, MSSQL, Postgres, SQL-Lite,Mongo-Db
         - Website Frameworks : : JavaScript, Django, Asp .Net, Mvc, Angular, HTML, CSS,
         - Deployment Frameworks : : Git, Heroku, Azure, Netilfy,
-
      </p>
  
 <lord-icon
