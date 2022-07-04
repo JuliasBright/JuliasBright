@@ -72,15 +72,15 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuliasBright&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&hide=contribs&theme=graywhite&bg_color=0000" />
 </div>
 
-<br />
+
 <div align="center">
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JuliasBright&count_private=true&theme=tokyonight&showicons=true)]()
-</div>
+
 
 <br />
-<div align="center">
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliasBright&langs_count=5&theme=tokyonight)]()
-</div>
+
 
 <details>
  
