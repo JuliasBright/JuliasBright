@@ -73,6 +73,13 @@
 </div>
 
 <details>
+ 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JuliasBright&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliasBright&langs_count=5&theme=tokyonight)]()
+
+<details>
+ 
+
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Julius Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JuliasBright/JuliasBright/&show_icons=true&hide_border=true" />
