@@ -80,4 +80,4 @@
 </details>
 
 [website]: https://juliusbright.com
-[linkedin]: http://linkedin.com/in/julius-bright-64619691
+[linkedin]: https://www.linkedin.com/in/julius-bright/
