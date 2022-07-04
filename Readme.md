@@ -69,6 +69,7 @@
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JuliasBright&count_private=true&theme=tokyonight&showicons=true&include_all_commits=true&hide=contribs)]()
 
 <br />
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliasBright&langs_count=5&theme=tokyonight&include_all_commits=true&hide=contribs)]()
 
 
