@@ -67,7 +67,7 @@
 
 <br/>
 <br/>
-<h4>Some of Github Stats</h4>
+### Some of Github Stats
 <hr/>
 
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JuliasBright&count_private=true&theme=tokyonight&showicons=true&include_all_commits=true&hide=contribs)]()
@@ -78,15 +78,15 @@
 
 
 <details>
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only) 
+![](https://raw.githubusercontent.com/username=JuliasBright/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username=JuliasBright/github-stats/master/generated/overview.svg#gh-light-mode-only) 
 
 <details>
  
 
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Julius Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JuliasBright/JuliasBright/&show_icons=true&hide_border=true" />
+  <img align="left" alt="Julius Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JuliasBright/&show_icons=true&hide_border=true" />
 
 </details>
 
