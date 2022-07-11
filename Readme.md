@@ -67,8 +67,8 @@
 
 <br/>
 <br/>
-### Some of Github Stats
-<summary>:zap: Github Stats</summary>
+### :zap: Some of Github Stats
+
 <hr/>
 
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JuliasBright&count_private=true&theme=tokyonight&showicons=true&include_all_commits=true&hide=contribs)]()
