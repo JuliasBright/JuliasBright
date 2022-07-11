@@ -76,6 +76,17 @@
 
 <br />
 
+<a href="https://github.com/JuliasBright/Dapper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuliasBright&repo=JuliasBright
+/Dapper&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+<br/>
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliasBright&langs_count=5&theme=tokyonight&include_all_commits=true&hide=contribs)]()
 
 
