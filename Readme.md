@@ -1,5 +1,6 @@
  <div align="center">
-   <h1>Hi there!👋 I'm Julius Bright   </h1>
+ Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+   <h1> I'm Julius Bright   </h1>
 </div>
 
 <div align="center">
