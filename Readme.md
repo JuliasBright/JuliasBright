@@ -69,7 +69,7 @@
 <br/>
 ### Some of Github Stats
 <hr/>
-
+<summary>:zap: Github Stats</summary>
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JuliasBright&count_private=true&theme=tokyonight&showicons=true&include_all_commits=true&hide=contribs)]()
 
 <br />
@@ -77,18 +77,6 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliasBright&langs_count=5&theme=tokyonight&include_all_commits=true&hide=contribs)]()
 
 
-<details>
-![](https://raw.githubusercontent.com/username=JuliasBright/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username=JuliasBright/github-stats/master/generated/overview.svg#gh-light-mode-only) 
-
-<details>
- 
-
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Julius Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JuliasBright/&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://juliusbright.com
 [linkedin]: https://www.linkedin.com/in/julius-bright/
