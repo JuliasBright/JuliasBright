@@ -33,7 +33,7 @@
  -  🔭 I’m currently working on projects and also oversee at [Bright-Group][website], [Playdats] [ipic play]!<br/>
 - 🌱 The human foot is a masterpiece of engineering and a work of art<br/>
 - 👯 When you want to know how things really work tore them apart. Foundation of team Building.<br/>
-- ⚡ Fun fact: Engineers like to solve problems. If there are no problems handily available, they will create their own problems.🤣.<br/>
+- 😊 Fun fact: Engineers like to solve problems. If there are no problems handily available, they will create their own problems.🤣.<br/>
 
 ### Connect with me:
 
