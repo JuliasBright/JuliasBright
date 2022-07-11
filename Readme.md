@@ -67,7 +67,7 @@
 
 <br/>
 <br/>
-###  Some of Github Stats
+### Some of Github Stats:
 
 <hr/>
 
