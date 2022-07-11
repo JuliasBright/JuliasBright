@@ -68,7 +68,7 @@
 <br/>
 <br/>
 
-### GitHub Stats:
+### :zap:GitHub Stats:
 
 <hr/>
 
