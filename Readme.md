@@ -23,7 +23,7 @@
 <hr/>
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=JuliasBright&theme=flat&no-frame=true&margin-w=30&no-bg=true" />
+   <img src="https://github-profile-trophy.vercel.app/?username=JuliusBright&theme=flat&no-frame=true&margin-w=30&no-bg=true" />
 </div>
 
 <hr/>
