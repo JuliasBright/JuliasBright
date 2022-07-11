@@ -65,9 +65,9 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-<hr/>
-
-<h4>Masterpiece of engineering not only tackles real world problems but dives deep in sustain the future of the current problem solution.</h4>
+<br/>
+<br/>
+<h4>Some of Github Stats</h4>
 <hr/>
 
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JuliasBright&count_private=true&theme=tokyonight&showicons=true&include_all_commits=true&hide=contribs)]()
