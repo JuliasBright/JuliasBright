@@ -1,48 +1,46 @@
- <div align="center">
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
+<div align="center">
   <h1> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
   I'm Julius Bright   </h1>
 </div>
 
 <div align="center">
- <h4>🦾 I work as Full Stack Developer |Font end/Back-end | Senior Software Engineer Level II</h4>
-   <h3>🚀 .NET Core, C#, Python, C++ </h3>
-     <p> Critical Tech Stack that are My Daily Norm,<br/>
-        - Programming Languages : : C#, .Net Core, Python,<br/>
-        - Database Languages : : SQL, MySQL, MSSQL, Postgres, SQL-Lite,Mongo-Db<br/>
-        - Website Frameworks : : JavaScript, Django, Asp .Net, Mvc, Angular, HTML, CSS,<br/>
-        - Deployment Frameworks : : Git, Heroku, Azure, Netilfy,<br/>
-     </p>
- 
-<lord-icon
+  <h4>🦾 I work as a Full Stack Developer | Font-end/Back-end | Senior Software Engineer Level II</h4>
+  <h3>🚀 .NET Core, C#, Python, C++ </h3>
+  <p> Critical Tech Stack that is My Daily Norm,<br/>
+    - Programming Languages: C#, .Net Core, Python<br/>
+    - Database Languages: SQL, MySQL, MSSQL, Postgres, SQL-Lite, Mongo-Db<br/>
+    - Website Frameworks: JavaScript, Django, Asp .Net, Mvc, Angular, HTML, CSS<br/>
+    - Deployment Frameworks: Git, Heroku, Azure, Netlify<br/>
+  </p>
+
+  <lord-icon
     src="https://cdn.lordicon.com/wxnxiano.json"
     trigger="loop"
-    style="width:250px;height:250px">
-</lord-icon>
-
-   
+    style="width:250px;height:250px"
+  ></lord-icon>
 </div>
 <hr/>
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=JuliasBright&theme=flat&no-frame=true&margin-w=30&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JuliasBright&theme=flat&no-frame=true&margin-w=30&no-bg=true" />
 </div>
 
 <hr/>
 
-<h4>Masterpiece of engineering not only tackles real world problems but dives deep in sustain the future of the current problem solution.</h4>
+<h4>Masterpiece of engineering not only tackles real-world problems but dives deep to sustain the future of the current problem solution.</h4>
 <hr/>
- -  🔭 I’m currently working on projects and also oversee at [Bright-Group][website], [Playdats] [ipic play]!<br/>
+- 🔭 I’m currently working on projects and also oversee at [Bright-Group][website], [Playdats], [ipic play]!<br/>
 - 🌱 The human foot is a masterpiece of engineering and a work of art<br/>
-- 👯 When you want to know how things really work tore them apart. Foundation of team Building.<br/>
-- 😊 Fun fact: Engineers like to solve problems. If there are no problems handily available, they will create their own problems.🤣.<br/>
+- 👯 When you want to know how things really work, tear them apart. Foundation of team Building.<br/>
+- 😊 Fun fact: Engineers like to solve problems. If there are no problems handily available, they will create their own problems. 🤣.<br/>
 
 ### Connect with me:
 
 [<img align="left" alt="juliusbright.com" width="22px" color="white" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -65,22 +63,25 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
 <br/>
 <br/>
 
-### :zap:GitHub Stats:
+### :zap: GitHub Stats:
 
 <hr/>
 
- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JuliasBright&count_private=true&theme=tokyonight&showicons=true&include_all_commits=true&hide=contribs)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JuliasBright&count_private=true&theme=tokyonight&showicons=true&include_all_commits=true&hide=contribs)]()
 
 <br />
- 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliasBright&langs_count=5&theme=tokyonight&include_all_commits=true&hide=contribs)]()
 
 
 
+### :chart_with_upwards_trend: Profile Visits:
+
+![Profile Visits](https://komarev.com/ghpvc/?username=JuliasBright&color=green)
+
 [website]: https://juliusbright.com
 [linkedin]: https://www.linkedin.com/in/julius-bright/
+[Counter]:https://camo.githubusercontent.com/548076e649d9b7bd465a97b67c6d8d50a25afd63b6d24ad5f7cabcc22f0a1cc6/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f73616761722d76697261646979612f636f756e742e737667
