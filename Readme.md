@@ -77,6 +77,7 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliasBright&langs_count=5&theme=tokyonight&include_all_commits=true&hide=contribs)]()
 
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juliuswakanda&theme=tokyonight&showicons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :chart_with_upwards_trend: Profile Visits:
 
