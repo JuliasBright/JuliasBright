@@ -9,7 +9,7 @@
   <h4>🦾 I work as a Full Stack Developer | Font-end/Back-end | Senior Software Engineer Level II</h4>
   <h3>🚀 .NET Core, C#, Python, C++ </h3>
   <p> Critical Tech Stack that is My Daily Norm,<br/>
-    - Programming Languages: C#, .Net Core, Python<br/>
+    - Programming Languages: C#, .Net Core, Python, Typescritpt<br/>
     - Database Languages: SQL, MySQL, MSSQL, Postgres, SQL-Lite, Mongo-Db<br/>
     - Website Frameworks: JavaScript, Django, Asp .Net, Mvc, Angular, HTML, CSS<br/>
     - Deployment Frameworks: Git, Heroku, Azure, Netlify<br/>
@@ -73,12 +73,6 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JuliasBright&count_private=true&theme=tokyonight&showicons=true&include_all_commits=true&hide=contribs)]()
 
 <br />
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliasBright&langs_count=5&theme=tokyonight&include_all_commits=true&hide=contribs)]()
-
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juliuswakanda&theme=tokyonight&showicons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### :chart_with_upwards_trend: Profile Visits:
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=JuliasBright&color=green)
