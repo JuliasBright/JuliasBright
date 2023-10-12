@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h4>🦾 Crafting cutting-edge solutions in the realms of Full Stack Development, Front-end/Back-end, and at the Senior Software Engineer Level III.</h4>
+  <h4>🦾 Crafting cutting-edge solutions in the realms of Full Stack Development, Front-end/Back-end, in the Senior Software Engineer Level III.</h4>
   <h3>🛠️ Expertise in .NET Core, C#, Python, C++, Java, TypeScript, JavaScript </h3>
   <p> My Daily Arsenal:<br/>
     - Programming Languages: .NET Core, C#, Python, C++, Java, TypeScript, JavaScript<br/>
