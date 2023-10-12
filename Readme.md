@@ -1,40 +1,34 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 <div align="center">
-  <h1> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-  I'm Julius Bright   </h1>
+  <h1> Greetings, I'm Julius Bright, a Senior Software Engineer 🚀</h1>
 </div>
 
 <div align="center">
-  <h4>🦾 I work as a Full Stack Developer | Font-end/Back-end | Senior Software Engineer Level II</h4>
-  <h3>🚀 .NET Core, C#, Python, C++ </h3>
-  <p> Critical Tech Stack that is My Daily Norm,<br/>
-    - Programming Languages: C#, .Net Core, Python, Typescritpt<br/>
+  <h4>🦾 Crafting cutting-edge solutions in the realms of Full Stack Development, Front-end/Back-end, and at the Senior Software Engineer Level III.</h4>
+  <h3>🛠️ Expertise in .NET Core, C#, Python, C++, Java, TypeScript, JavaScript </h3>
+  <p> My Daily Arsenal:<br/>
+    - Programming Languages: .NET Core, C#, Python, C++, Java, TypeScript, JavaScript<br/>
     - Database Languages: SQL, MySQL, MSSQL, Postgres, SQL-Lite, Mongo-Db<br/>
     - Website Frameworks: JavaScript, Django, Asp .Net, Mvc, Angular, HTML, CSS<br/>
-    - Deployment Frameworks: Git, Heroku, Azure, Netlify<br/>
+    - Deployment Frameworks: Git, Heroku, Azure, Netlify, Aws, Google Cloud <br/>
   </p>
-
-  <lord-icon
-    src="https://cdn.lordicon.com/wxnxiano.json"
-    trigger="loop"
-    style="width:250px;height:250px"
-  ></lord-icon>
 </div>
 <hr/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JuliasBright&theme=flat&no-frame=true&margin-w=30&no-bg=true" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVlMGtkdnFmNW53dHBiczRuYW1zZ3UwNmRiaXY2cGk3YWlzcnZpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/24652QfeZzNIPzoH36/giphy.gif" width="200px" height="200px"/>
 </div>
+<hr/>
+`
+
+🌱 **The Human Foot, an Engineering Masterpiece and a Canvas of Art.**
+
+👯 **Curiosity Unleashes the True Nature of Things. Tear Them Apart for the Foundation of Team Building!**
+
+😊 **Fun Fact: Engineers Thrive on Challenges. If No Problems Exist, We're Known to Invent Some Just for Fun! 🤣**
 
 <hr/>
-
-<h4>Masterpiece of engineering not only tackles real-world problems but dives deep to sustain the future of the current problem solution.</h4>
-<hr/>
-- 🔭 I’m currently working on projects and also oversee at [Bright-Group][website], [Playdats], [ipic play]!<br/>
-- 🌱 The human foot is a masterpiece of engineering and a work of art<br/>
-- 👯 When you want to know how things really work, tear them apart. Foundation of team Building.<br/>
-- 😊 Fun fact: Engineers like to solve problems. If there are no problems handily available, they will create their own problems. 🤣.<br/>
 
 ### Connect with me:
 
@@ -46,25 +40,25 @@
 
 ### 🔧 Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
+<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
+<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
+<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://img.icons8.com/color/48/000000/typescript.png" />
+<img align="left" alt="Django" width="26px" src="https://img.icons8.com/color/48/000000/django.png" />
+<img align="left" alt="Asp .Net" width="26px" src="https://img.icons8.com/color/48/000000/asp.png" />
+<img align="left" alt="Angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
+<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />
+<img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
+<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png" />
+<img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
+<img align="left" alt="Google Cloud" width="26px" src="https://img.icons8.com/color/48/000000/google-cloud.png" />
 
 <br/>
 <br/>
+
 
 ### :zap: GitHub Stats:
 
@@ -79,4 +73,3 @@
 
 [website]: https://juliusbright.com
 [linkedin]: https://www.linkedin.com/in/julius-bright/
-[Counter]:https://camo.githubusercontent.com/548076e649d9b7bd465a97b67c6d8d50a25afd63b6d24ad5f7cabcc22f0a1cc6/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f73616761722d76697261646979612f636f756e742e737667
